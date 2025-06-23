@@ -9,7 +9,7 @@ This room covers various security solutions used by organizations to protect the
 - Understand different categories of security solutions
 - Learn how firewalls, antivirus, encryption, and access controls work
 - Explore cloud security basics and endpoint protection
-- Recognize the importance of security policies and best practices
+- Recognize the importance of security policies and best practices 
 
 ---
 
