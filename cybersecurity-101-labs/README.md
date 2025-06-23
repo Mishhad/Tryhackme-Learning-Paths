@@ -5,7 +5,7 @@ The **Cybersecurity 101** learning path provides a foundational journey into cyb
 
 ---
 
-## 🎯 Learning Path Objectives
+## 🎯 Learning Path Objectives 
 - Build strong fundamentals in cybersecurity principles and best practices
 - Gain hands-on experience with real-world labs and challenges
 - Understand both offensive and defensive security domains
