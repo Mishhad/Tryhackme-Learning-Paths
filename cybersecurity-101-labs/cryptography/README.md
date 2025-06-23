@@ -9,7 +9,7 @@ This room introduces the basics of cryptography — a critical concept in cybers
 - Understand the difference between encoding, encryption, and hashing
 - Learn about symmetric vs. asymmetric encryption
 - Practice decoding and decrypting basic ciphers
-- Use online tools and Linux commands to solve crypto challenges
+- Use online tools and Linux commands to solve crypto challenges 
 
 ---
 
