@@ -8,4 +8,4 @@ Currently working through the **Cybersecurity 101** path, which includes 50+ lab
 - SOC & Threat Intelligence
 - Blue Team & Red Team concepts
 
-🔗 [My TryHackMe Profile](https://tryhackme.com/p/Mishhad)
+
