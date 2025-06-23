@@ -24,7 +24,7 @@ This room introduces the basics of Windows operating systems and Active Director
 | **Common AD Attacks** | Kerberos attacks, privilege escalation, password attacks |
 
 | Tools Used | Purpose |
-| ---------- | ------- |
+| ---------- | ------- | 
 | PowerShell | Windows automation and scripting |
 | Active Directory Users and Computers (ADUC) | Manage AD objects |
 | Windows Event Viewer | Monitor logs and security events |
