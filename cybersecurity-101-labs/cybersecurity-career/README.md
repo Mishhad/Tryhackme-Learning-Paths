@@ -9,7 +9,7 @@ This room provides an introduction to the cybersecurity industry and career path
 - Understand various cybersecurity domains (Blue Team, Red Team, GRC)
 - Learn about typical entry-level roles and career progression
 - Identify essential skills and certifications
-- Discover resources to build a competitive profile
+- Discover resources to build a competitive profile 
 
 ---
 
