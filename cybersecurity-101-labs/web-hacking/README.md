@@ -9,7 +9,7 @@ This room introduces the fundamentals of web application security and common vul
 - Understand common web vulnerabilities (e.g., SQL injection, XSS, CSRF)
 - Learn how to identify and exploit simple web flaws
 - Practice using web hacking tools and techniques
-- Explore secure coding practices to prevent attacks
+- Explore secure coding practices to prevent attacks 
 
 ---
 
