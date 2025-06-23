@@ -8,7 +8,7 @@ This room introduces the principles of defensive security and the tools used to 
 ## 🎯 Objectives
 - Understand the role of defensive security (Blue Team)
 - Learn how to monitor systems for suspicious activity
-- Get hands-on with key tools used for detection and response
+- Get hands-on with key tools used for detection and response 
 - Analyze logs and identify potential attacks
 
 ---
