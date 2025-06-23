@@ -6,6 +6,6 @@ Currently working through the **Cybersecurity 101** path, which includes 50+ lab
 - Network & Web fundamentals
 - Linux & Windows security
 - SOC & Threat Intelligence
-- Blue Team & Red Team concepts
+- Blue Team & Red Team concepts 
 
 
