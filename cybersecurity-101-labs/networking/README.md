@@ -6,7 +6,7 @@ This room covers the fundamental concepts of computer networking — an essentia
 ---
 
 ## 🎯 Objectives
-- Understand key networking concepts (IP addresses, DNS, routing)
+- Understand key networking concepts (IP addresses, DNS, routing) 
 - Learn about common network protocols (TCP, UDP, ICMP)
 - Practice using basic networking tools for reconnaissance and troubleshooting
 - Interpret simple network traffic and responses
