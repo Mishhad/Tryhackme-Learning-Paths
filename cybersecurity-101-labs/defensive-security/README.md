@@ -7,7 +7,7 @@ This room covers the fundamentals of defensive security, focusing on protecting 
 
 ## 🎯 Objectives
 - Understand the goals and functions of defensive security
-- Learn about key defensive strategies and frameworks
+- Learn about key defensive strategies and frameworks 
 - Explore the stages of threat detection and incident response
 - Recognize common tools used by Blue Teams
 
