@@ -14,7 +14,7 @@ This room introduces the fundamentals of using the Linux command line — an ess
 
 ---
 
-## 🛠️ Key Commands Practiced
+## 🛠️ Key Commands Practiced 
 
 | Command | Purpose |
 | ------- | ------- |
